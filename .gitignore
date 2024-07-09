@@ -1,2 +1,3 @@
 */Kafka*/build/*
 !*/Kafka*/build/generated*/
+.idea
