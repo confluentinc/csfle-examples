@@ -111,8 +111,8 @@ or in the CC UI
 ### Gradle
 We need to add
 ```shell
-implementation("io.confluent:kafka-avro-serializer:7.6.1")
-implementation("io.confluent:kafka-schema-registry-client-encryption-gcp:7.6.1")
+implementation("io.confluent:kafka-avro-serializer:x.y.z")
+implementation("io.confluent:kafka-schema-registry-client-encryption-gcp:x.y.z")
 ```
 
 ### Producer
