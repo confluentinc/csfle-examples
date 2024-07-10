@@ -26,8 +26,8 @@ dependencies {
     implementation("org.apache.logging.log4j:log4j-slf4j-impl:2.12.0")
     implementation("io.ktor:ktor-server-netty:1.2.2")
     implementation("com.google.code.gson:gson:2.8.8")
-    implementation("io.confluent:kafka-avro-serializer:7.5.1")
-    implementation("io.confluent:kafka-schema-registry-client-encryption-aws:7.5.1")
+    implementation("io.confluent:kafka-avro-serializer:7.6.1")
+    implementation("io.confluent:kafka-schema-registry-client-encryption-aws:7.6.1")
 }
 
 
