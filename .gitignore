@@ -1,3 +1,6 @@
 */Kafka*/build/*
 !*/Kafka*/build/generated*/
 .idea
+
+.gradle/
+*/Kafka*/.gradle/
